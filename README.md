@@ -1,7 +1,7 @@
 # EmpathyChat: AI Based Content Filtering ✨
 
 <br/>
-<img src="https://github.com/user-attachments/assets/d91a5803-0097-4c70-ace3-6ce4cd7cf064" width="700"/>
+<img src="https://github.com/user-attachments/assets/aabb3ec1-a78e-4bbb-9460-e18b611b9092" width="700"/>
 <br/>
 
 ## Introduction 🌍
