@@ -1,20 +1,18 @@
+# EmpathyChat ✨
 
-
-# EmpathyChat
-
-## Introduction
+## Introduction 🌍
 
 In an increasingly digital world, the way we communicate shapes our relationships and influences how we receive feedback. To address the growing need for more empathetic and constructive communication, we are developing a real-time chat app that transforms the way users express themselves in reviews and feedback scenarios. 
 
-This innovative app tweaks users' words into a more professional and compassionate tone, encouraging thoughtful and respectful exchanges. By facilitating empathetic communication, our app aims to enhance the quality of online interactions, whether in restaurant reviews, product feedback, or constructive critiques, ultimately fostering a culture of understanding and support.
+This innovative app tweaks users' words into a more professional and compassionate tone, encouraging thoughtful and respectful exchanges. By facilitating empathetic communication, our app aims to enhance the quality of online interactions, whether in restaurant reviews 🍴, product feedback 📦, or constructive critiques 💬, ultimately fostering a culture of understanding and support.
 
-## Objectives
+## Objectives 🎯
 
 - Develop a real-time chat application using WebSockets, allowing multiple users to communicate seamlessly.
-- Implement advanced features for filtering out vulgar words without removing the comment entirely.
-- Converting negative sentiments into positive expressions, thereby promoting a healthier communication environment.
+- Implement advanced features for filtering out vulgar words 🚫 without removing the comment entirely.
+- Converting negative sentiments into positive expressions, thereby promoting a healthier communication environment 🌱.
 
-## Literature Survey
+## Literature Survey 📚
 
 | Title | Summary |
 | ----- | ------- |
@@ -28,7 +26,7 @@ This innovative app tweaks users' words into a more professional and compassiona
 | Badjatiya, P., Gupta, S., Gupta, M., & Varma, V. (2017) | Introduces deep learning techniques for identifying hate speech on Twitter. |
 | Mubarak, H., Darwish, K., & Magdy, W. (2017) | Focuses on the detection of hate speech and abusive language in Arabic, providing insights into multilingual challenges. |
 
-## Web Sockets
+## Web Sockets 🌐
 
 WebSocket is bidirectional, a full-duplex protocol used in the same client-server communication scenario as HTTP, but it starts with `ws://` or `wss://`. It is a stateful protocol, meaning the connection between the client and server remains open until terminated by either party. 
 
@@ -36,14 +34,14 @@ In real-time web applications, WebSockets allow for continuous communication bet
 
 WebSockets are used to filter and modify messages in real-time. When a client sends a message containing inappropriate content, the server intercepts and filters it before broadcasting the modified message.
 
-## Methodology
+## Methodology 🛠️
 
 1. **Backend**: FastAPI, WebSocket for real-time communication.
 2. **Frontend**: HTML/CSS and JavaScript.
 3. **AI**: Uses AI-driven filtering to transform negative tones into positive and professional responses via Google Generative AI SDK.
 4. **Deployment**: The application is deployed using Docker as a microservice.
 
-### Steps
+### Steps 🔄
 
 #### Backend
 1. Install necessary libraries and set up FastAPI.
@@ -55,21 +53,17 @@ WebSockets are used to filter and modify messages in real-time. When a client se
 2. Use JavaScript to manage WebSocket connections and message handling.
 3. Implement a connection manager to handle active WebSocket connections.
 
-
-
-## Project Specifics
+## Project Specifics 🧩
 
 1. **Development Environment Setup**: Install necessary software like FastAPI, Uvicorn, and Google AI SDK.
 2. **WebSocket Connection**: Establish a persistent WebSocket connection.
 3. **Message Filtering**: Implement real-time vulgar word filtering and tone modifications.
 4. **User Interface**: Design an interactive chat interface with input fields and display areas.
 
-## Results & Discussions
+## Results & Discussions 📝
 
-### Without Promode:
-## Results & Discussions
+### Without Promode 🚫:
 
-### Without Promode:
 **Sender Client:**
 
 <br/>
@@ -86,7 +80,7 @@ WebSockets are used to filter and modify messages in real-time. When a client se
 
 <br/>
 
-### With Promode:
+### With Promode 🌟:
 Choice of enabling promode is up to the sender, allowing them to choose whether to enable the feature or not. This is not to restrict free speech, but rather an option for more professional communication.
 
 **Sender Client (With Promode Enabled):**
@@ -103,21 +97,17 @@ Choice of enabling promode is up to the sender, allowing them to choose whether 
 
 <img src="https://github.com/user-attachments/assets/6bc4f16b-759e-46d6-b906-4d7468a17a43" width="400"/>
 
-
-## Conclusion
+## Conclusion 🏁
 
 In this digital age, communication shapes relationships and feedback. Our real-time chat app facilitates empathetic and constructive communication by transforming negative expressions into professional tones. This innovation promotes understanding, support, and respect in online interactions.
 
-## Steps for Running the Application
+## Steps for Running the Application 🚀
 
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run the backend with the following command:
-4. - python -m uvicorn app:app --reload
-
-- click the link once app.py starts
-
-```bash
+4. ```bash
+   python -m uvicorn app:app --reload
 
 
 
