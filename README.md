@@ -36,7 +36,7 @@ WebSockets are used to filter and modify messages in real-time. When a client se
 
 ## Methodology 🛠️
 
-![image](https://github.com/user-attachments/assets/548d9e88-f372-4c9c-b593-fe8d1691c07c)
+![image](https://github.com/user-attachments/assets/8ac4efb6-95aa-409e-9a20-93a9c3f53bd4)
 
 Tech stack:
 
