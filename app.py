@@ -14,7 +14,8 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 # Configure the API key
-GOOGLE_API_KEY = " "
+GOOGLE_API_KEY = ""
+
 genai.configure(api_key=GOOGLE_API_KEY)
 
 app = FastAPI()
@@ -49,7 +50,7 @@ generation_config = {
 }
 
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-pro",
+    model_name="gemini-1.5-flash",
     generation_config=generation_config,
     safety_settings={
         HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
