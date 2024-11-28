@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 # Configure the API key
-GOOGLE_API_KEY = "AIzaSyDtl4DdV6-zDQ-G5yTRKS9dFYchfZeuVKk"
+GOOGLE_API_KEY = " "
 genai.configure(api_key=GOOGLE_API_KEY)
 
 app = FastAPI()
