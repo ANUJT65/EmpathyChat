@@ -69,7 +69,7 @@ Tech stack:
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/a2049ec7-ca95-4b23-9ad6-b2df543a40bd" width="400"/>
+<img src="https://github.com/user-attachments/assets/a2049ec7-ca95-4b23-9ad6-b2df543a40bd" width="300"/>
 
 <br/>
 
@@ -77,7 +77,7 @@ Tech stack:
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/a3cc6074-915c-447c-b446-53db345e1f17" width="400"/>
+<img src="https://github.com/user-attachments/assets/a3cc6074-915c-447c-b446-53db345e1f17" width="300"/>
 
 <br/>
 
@@ -88,7 +88,7 @@ Choice of enabling promode is up to the sender, allowing them to choose whether 
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/fccc42cc-fe31-41c7-898d-e746beeccf2c" width="400"/>
+<img src="https://github.com/user-attachments/assets/fccc42cc-fe31-41c7-898d-e746beeccf2c" width="300"/>
 
 <br/>
 
@@ -96,7 +96,7 @@ Choice of enabling promode is up to the sender, allowing them to choose whether 
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/6bc4f16b-759e-46d6-b906-4d7468a17a43" width="400"/>
+<img src="https://github.com/user-attachments/assets/6bc4f16b-759e-46d6-b906-4d7468a17a43" width="300"/>
 
 ## Conclusion 🏁
 
