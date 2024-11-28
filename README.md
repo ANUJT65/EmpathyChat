@@ -36,10 +36,15 @@ WebSockets are used to filter and modify messages in real-time. When a client se
 
 ## Methodology 🛠️
 
+![image](https://github.com/user-attachments/assets/548d9e88-f372-4c9c-b593-fe8d1691c07c)
+
+Tech stack:
+
 1. **Backend**: FastAPI, WebSocket for real-time communication.
 2. **Frontend**: HTML/CSS and JavaScript.
-3. **AI**: Uses AI-driven filtering to transform negative tones into positive and professional responses via Google Generative AI SDK.
+3. **AI**: Uses AI-driven filtering to transform negative tones into positive and professional responses via Google Generative AI 
 4. **Deployment**: The application is deployed using Docker as a microservice.
+
 
 ### Steps 🔄
 
