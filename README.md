@@ -12,19 +12,7 @@ This innovative app tweaks users' words into a more professional and compassiona
 - Implement advanced features for filtering out vulgar words 🚫 without removing the comment entirely.
 - Converting negative sentiments into positive expressions, thereby promoting a healthier communication environment 🌱.
 
-## Literature Survey 📚
 
-| Title | Summary |
-| ----- | ------- |
-| Davidson, T., Warmsley, D., Macy, M., & Weber, I. (2017) | This paper explores challenges in differentiating hate speech from offensive language using NLP approaches and various classifiers. |
-| Fortuna, P., & Nunes, S. (2018) | The study surveys different methods and challenges in detecting hate speech using computational models. |
-| Saleh, H., Alhothali, A., & Moria, K. (2021) | This paper investigates the use of BERT and domain-specific word embeddings for detecting hate speech with a high F1 score. |
-| Zhou, X., & Zafarani, R. (2018) | A comprehensive survey that discusses the complexities of hate speech detection on platforms like Twitter and Facebook. |
-| Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2021) | Focuses on creating datasets that aid in making hate speech detection models more interpretable. |
-| Schmidt, A., & Wiegand, M. (2017) | Discusses NLP-based methods for detecting hate speech across various languages and datasets. |
-| Wang, Z., Hale, S. A., Adelani, D. I., Grabowicz, P., Hartman, T., Floeck, F., & Jurgens, D. (2020) | Examines the relationship between demographics and the prevalence of hate speech across social media. |
-| Badjatiya, P., Gupta, S., Gupta, M., & Varma, V. (2017) | Introduces deep learning techniques for identifying hate speech on Twitter. |
-| Mubarak, H., Darwish, K., & Magdy, W. (2017) | Focuses on the detection of hate speech and abusive language in Arabic, providing insights into multilingual challenges. |
 
 ## Web Sockets 🌐
 
@@ -105,6 +93,20 @@ Choice of enabling promode is up to the sender, allowing them to choose whether 
 ## Conclusion 🏁
 
 In this digital age, communication shapes relationships and feedback. Our real-time chat app facilitates empathetic and constructive communication by transforming negative expressions into professional tones. This innovation promotes understanding, support, and respect in online interactions.
+
+## Literature Survey 📚
+
+| Authors| Summary |
+| ----- | ------- |
+| Davidson, T., Warmsley, D., Macy, M., & Weber, I. (2017) | This paper explores challenges in differentiating hate speech from offensive language using NLP approaches and various classifiers. |
+| Fortuna, P., & Nunes, S. (2018) | The study surveys different methods and challenges in detecting hate speech using computational models. |
+| Saleh, H., Alhothali, A., & Moria, K. (2021) | This paper investigates the use of BERT and domain-specific word embeddings for detecting hate speech with a high F1 score. |
+| Zhou, X., & Zafarani, R. (2018) | A comprehensive survey that discusses the complexities of hate speech detection on platforms like Twitter and Facebook. |
+| Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2021) | Focuses on creating datasets that aid in making hate speech detection models more interpretable. |
+| Schmidt, A., & Wiegand, M. (2017) | Discusses NLP-based methods for detecting hate speech across various languages and datasets. |
+| Wang, Z., Hale, S. A., Adelani, D. I., Grabowicz, P., Hartman, T., Floeck, F., & Jurgens, D. (2020) | Examines the relationship between demographics and the prevalence of hate speech across social media. |
+| Badjatiya, P., Gupta, S., Gupta, M., & Varma, V. (2017) | Introduces deep learning techniques for identifying hate speech on Twitter. |
+| Mubarak, H., Darwish, K., & Magdy, W. (2017) | Focuses on the detection of hate speech and abusive language in Arabic, providing insights into multilingual challenges. |
 
 ## Steps for Running the Application 🚀
 
