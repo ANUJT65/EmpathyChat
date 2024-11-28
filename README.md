@@ -8,9 +8,11 @@ This innovative app tweaks users' words into a more professional and compassiona
 
 <br/>
 
+<img src="https://github.com/user-attachments/assets/2e3a643f-e227-4596-9a6e-158699d7d7e7" width="400"/>
 <img src="https://github.com/user-attachments/assets/d91a5803-0097-4c70-ace3-6ce4cd7cf064" width="400"/>
 
 <br/>
+
 ## Objectives 🎯
 
 - Develop a real-time chat application using WebSockets, allowing multiple users to communicate seamlessly.
