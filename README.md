@@ -1,4 +1,4 @@
-# EmpathyChat ✨
+# EmpathyChat:AI Based Content Filtering ✨
 
 ## Introduction 🌍
 
