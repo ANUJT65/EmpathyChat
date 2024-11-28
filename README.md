@@ -110,9 +110,12 @@ In this digital age, communication shapes relationships and feedback. Our real-t
 
 1. Clone the repository.
 2. Navigate to the project directory.
+- put the index.html in templates folder(i forgot to add it)
+- replace the gemini api key
+- check gemini version
+- (only runs with this) 
 3. Run the backend with the following command:
-4. ```bash
-   python -m uvicorn app:app --reload
+python -m uvicorn app:app --reload
 
 
 
