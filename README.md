@@ -1,18 +1,15 @@
 # EmpathyChat: AI Based Content Filtering ✨
 
+<br/>
+<img src="https://github.com/user-attachments/assets/d91a5803-0097-4c70-ace3-6ce4cd7cf064" width="700"/>
+<br/>
+
 ## Introduction 🌍
 
 In an increasingly digital world, the way we communicate shapes our relationships and influences how we receive feedback. To address the growing need for more empathetic and constructive communication, we are developing a real-time chat app that transforms the way users express themselves in reviews and feedback scenarios. 
 
 This innovative app tweaks users' words into a more professional and compassionate tone, encouraging thoughtful and respectful exchanges. By facilitating empathetic communication, our app aims to enhance the quality of online interactions, whether in restaurant reviews 🍴, product feedback 📦, or constructive critiques 💬, ultimately fostering a culture of understanding and support.
 
-<br/>
-
-<img src="https://github.com/user-attachments/assets/2e3a643f-e227-4596-9a6e-158699d7d7e7" width="400"/>
-<img src="https://github.com/user-attachments/assets/d91a5803-0097-4c70-ace3-6ce4cd7cf064" width="400"/>
-
-
-<br/>
 
 ## Objectives 🎯
 
