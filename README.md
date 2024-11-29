@@ -5,10 +5,9 @@
 
 ## Introduction 🌍
 
-In an increasingly digital world, the way we communicate shapes our relationships and influences how we receive feedback. To address the growing need for more empathetic and constructive communication, we are developing a real-time chat app that transforms the way users express themselves in reviews and feedback scenarios. 
+In an increasingly digital world, the way we communicate shapes our relationships and influences how we receive feedback. To address the growing need for more empathetic and constructive communication, we have developed a real-time chat app that transforms the way users express themselves in reviews and feedback scenarios. 
 
 This innovative app tweaks users' words into a more professional and compassionate tone, encouraging thoughtful and respectful exchanges. By facilitating empathetic communication, our app aims to enhance the quality of online interactions, whether in restaurant reviews 🍴, product feedback 📦, or constructive critiques 💬, ultimately fostering a culture of understanding and support.
-
 
 ## Objectives 🎯
 
@@ -16,8 +15,6 @@ This innovative app tweaks users' words into a more professional and compassiona
 - Implement advanced features for filtering out vulgar words 🚫 without removing the comment entirely.
 - Converting negative sentiments into positive expressions, thereby promoting a healthier communication environment 🌱.
   
-
-
 
 ## Web Sockets 🌐
 
@@ -28,7 +25,6 @@ In real-time web applications, WebSockets allow for continuous communication bet
 WebSockets are used to filter and modify messages in real-time. When a client sends a message containing inappropriate content, the server intercepts and filters it before broadcasting the modified message.
 
 ## Methodology 🛠️
-
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8ac4efb6-95aa-409e-9a20-93a9c3f53bd4" width="600"/>
