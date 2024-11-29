@@ -32,23 +32,13 @@ WebSockets are used to filter and modify messages in real-time. When a client se
 
 Tech stack:
 
-1. **Backend**: FastAPI, WebSocket for real-time communication.
+1. **Backend**: Python FastAPI, WebSocket for real-time communication.
 2. **Frontend**: HTML/CSS and JavaScript.
 3. **AI**: Uses AI-driven filtering to transform negative tones into positive and professional responses via Google Generative AI 
 4. **Deployment**: The application is deployed using Docker as a microservice.
 
 
 ### Steps 🔄
-
-#### Backend
-1. Install necessary libraries and set up FastAPI.
-2. Use WebSocket for establishing real-time connections between the client and server.
-3. Use Google Generative AI SDK for AI-driven transformations and tone filtering.
-
-#### Frontend
-1. Create a responsive HTML/CSS interface for the chat.
-2. Use JavaScript to manage WebSocket connections and message handling.
-3. Implement a connection manager to handle active WebSocket connections.
 
 ## Project Specifics 🧩
 
