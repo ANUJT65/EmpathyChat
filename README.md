@@ -1,8 +1,8 @@
 # EmpathyChat: AI Based Content Filtering ✨
 
-<br/>
-<img src="https://github.com/user-attachments/assets/aabb3ec1-a78e-4bbb-9460-e18b611b9092" width="700"/>
-<br/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aabb3ec1-a78e-4bbb-9460-e18b611b9092" width="500"/>
+</div>
 
 ## Introduction 🌍
 
@@ -30,7 +30,10 @@ WebSockets are used to filter and modify messages in real-time. When a client se
 
 ## Methodology 🛠️
 
-![image](https://github.com/user-attachments/assets/8ac4efb6-95aa-409e-9a20-93a9c3f53bd4)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8ac4efb6-95aa-409e-9a20-93a9c3f53bd4" width="600"/>
+</div>
 
 Tech stack:
 
@@ -70,6 +73,9 @@ Tech stack:
 <img src="https://github.com/user-attachments/assets/a2049ec7-ca95-4b23-9ad6-b2df543a40bd" width="300"/>
 
 <br/>
+
+
+
 
 **Receiver Client:**
 
