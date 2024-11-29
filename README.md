@@ -38,14 +38,6 @@ Tech stack:
 4. **Deployment**: The application is deployed using Docker as a microservice.
 
 
-### Steps 🔄
-
-## Project Specifics 🧩
-
-1. **Development Environment Setup**: Install necessary software like FastAPI, Uvicorn, and Google AI SDK.
-2. **WebSocket Connection**: Establish a persistent WebSocket connection.
-3. **Message Filtering**: Implement real-time vulgar word filtering and tone modifications.
-4. **User Interface**: Design an interactive chat interface with input fields and display areas.
 
 ## Results & Discussions 📝
 ### Without Pro mode 🚫:
