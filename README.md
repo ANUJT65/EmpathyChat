@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>EmpathyChat: AI Based Content Filtering ✨</b></h1>
+  <h1><b>EmpathyChat: Real Time AI Based Content Filtering ✨</b></h1>
   <img src="https://github.com/user-attachments/assets/aabb3ec1-a78e-4bbb-9460-e18b611b9092" width="300"/>
 </div>
 
