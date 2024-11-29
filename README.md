@@ -81,6 +81,7 @@ Tech stack:
 
  - **Choice of enabling Pro mode is up to the sender, allowing them to choose whether to enable the feature or not.**
  - **This is not to restrict free speech, but rather an option for more professional communication.**
+ - **As the choice is in your hands, the data security is also not an issue as we are only sending the data to ai model when its in pro mode**
 
 <table align="center">
   <tr>
