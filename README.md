@@ -18,7 +18,7 @@ This innovative app tweaks users' words into a more professional and compassiona
 
 ## Web Sockets 🌐
 
-WebSocket is bidirectional, a full-duplex protocol used in the same client-server communication scenario as HTTP, but it starts with `ws://` or `wss://`. It is a stateful protocol, meaning the connection between the client and server remains open until terminated by either party. 
+WebSocket is bidirectional, a full-duplex protocol used in the same client-server communication scenario as HTTP. It is a stateful protocol, meaning the connection between the client and server remains open until terminated by either party. 
 
 In real-time web applications, WebSockets allow for continuous communication between the client and the server. For example, when Client A sends a message, it is immediately visible to Client B.
 
