@@ -64,7 +64,7 @@ Tech stack:
 
 ## Results & Discussions 📝
 
-### Without Promode 🚫:
+### Without Pro mode 🚫:
 
 **Sender Client:**
 
@@ -75,8 +75,6 @@ Tech stack:
 <br/>
 
 
-
-
 **Receiver Client:**
 
 <br/>
@@ -85,10 +83,10 @@ Tech stack:
 
 <br/>
 
-### With Promode 🌟:
+### With Pro mode 🌟:
 Choice of enabling promode is up to the sender, allowing them to choose whether to enable the feature or not. This is not to restrict free speech, but rather an option for more professional communication.
 
-**Sender Client (With Promode Enabled):**
+**Sender Client (With Pro mode Enabled):**
 
 <br/>
 
@@ -96,7 +94,7 @@ Choice of enabling promode is up to the sender, allowing them to choose whether 
 
 <br/>
 
-**Receiver Client (With Promode Enabled):**
+**Receiver Client :**
 
 <br/>
 
