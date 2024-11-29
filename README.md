@@ -62,42 +62,45 @@ Tech stack:
 4. **User Interface**: Design an interactive chat interface with input fields and display areas.
 
 ## Results & Discussions 📝
-
 ### Without Pro mode 🚫:
 
-**Sender Client:**
+<table align="center">
+  <tr>
+    <td align="center"><b>Sender Client</b></td>
+    <td align="center"><b>Receiver Client</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a2049ec7-ca95-4b23-9ad6-b2df543a40bd" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a3cc6074-915c-447c-b446-53db345e1f17" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/a2049ec7-ca95-4b23-9ad6-b2df543a40bd" width="300"/>
+### Pro Mode 🌟:
 
-<br/>
+# Choice of enabling Pro mode is up to the sender, allowing them to choose whether to enable the feature or not. This is not to restrict free speech, but rather an option for more professional communication.
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Sender Client (With Pro mode Enabled)</b></td>
+    <td align="center"><b>Receiver Client</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fccc42cc-fe31-41c7-898d-e746beeccf2c" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6bc4f16b-759e-46d6-b906-4d7468a17a43" width="300"/>
+    </td>
+  </tr>
+</table>
 
 
-**Receiver Client:**
-
-<br/>
-
-<img src="https://github.com/user-attachments/assets/a3cc6074-915c-447c-b446-53db345e1f17" width="300"/>
-
-<br/>
-
-### With Pro mode 🌟:
-Choice of enabling promode is up to the sender, allowing them to choose whether to enable the feature or not. This is not to restrict free speech, but rather an option for more professional communication.
-
-**Sender Client (With Pro mode Enabled):**
-
-<br/>
-
-<img src="https://github.com/user-attachments/assets/fccc42cc-fe31-41c7-898d-e746beeccf2c" width="300"/>
-
-<br/>
-
-**Receiver Client :**
-
-<br/>
-
-<img src="https://github.com/user-attachments/assets/6bc4f16b-759e-46d6-b906-4d7468a17a43" width="300"/>
 
 ## Conclusion 🏁
 
