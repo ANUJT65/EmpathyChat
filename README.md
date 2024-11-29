@@ -83,7 +83,8 @@ Tech stack:
 
 ### Pro Mode 🌟:
 
-# Choice of enabling Pro mode is up to the sender, allowing them to choose whether to enable the feature or not. This is not to restrict free speech, but rather an option for more professional communication.
+ - **Choice of enabling Pro mode is up to the sender, allowing them to choose whether to enable the feature or not.**
+ - **This is not to restrict free speech, but rather an option for more professional communication.**
 
 <table align="center">
   <tr>
