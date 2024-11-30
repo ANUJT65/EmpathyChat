@@ -107,6 +107,9 @@ In this digital age, communication shapes relationships and feedback. Our real-t
 - put the index.html in templates folder(i forgot to add it)
 - replace the gemini api key
 - check gemini version
+
+Do favourite the repo if you liked the project and it may have helped you in any way!
+if you need help do ask!
 - (only runs with this) 
 3. Run the backend with the following command:
 python -m uvicorn app:app --reload
